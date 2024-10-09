@@ -1,16 +1,18 @@
-## Hi there 👋
 
-<!--
-**JDGB1428/JDGB1428** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Juan David Galindo
 
-Here are some ideas to get you started:
+## About me
+- I'm a software developer 💻.
+- I am 24 years old, I live in Cartagena, Colombia.
+- I am passionate about technology ⌨.
+- I am a self-taught person, I keep learning everything every day📚.
+## Technologies
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript) ![Typescript](https://img.shields.io/badge/-Typescript-333333?style=flat&logo=typescript) ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react) ![tailwindCSS](https://img.shields.io/badge/TailwindCss-333333?style=flat&logo=tailwindcss) ![Laravel](https://img.shields.io/badge/Laravel-333333?style=flat&logo=Laravel) ![PHP](https://img.shields.io/badge/PHP-333333?style=flat&logo=PHP) ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js) ![Express](https://img.shields.io/badge/-Express-333333?style=flat&logo=express) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql) ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=MongoDB)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Contacts
+<a href="https://www.linkedin.com/in/juan-david-galindo-barrios-4ab953149/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Juan David-blue?style=flat-square&logo=linkedin"></a>
+<a href="juan_galindo00@outlook.com"><img alt="Email" src="https://img.shields.io/badge/Outlook-juan_galindo00@outlook.com-blue?style=flat-square&logo=Outlook"></a>  
+
+  
+  
+
