@@ -3,7 +3,7 @@
 
 ## About me
 - I'm a software developer 💻.
-- I am 24 years old, I live in Cartagena, Colombia.
+- I live in Cartagena, Colombia.
 - I am passionate about technology ⌨.
 - I am a self-taught person, I keep learning everything every day📚.
 ## Technologies
