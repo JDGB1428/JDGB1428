@@ -10,8 +10,7 @@
 
 
 ## Acerca de mi :
-- 🏢 Soy desarrollador de software <img width="250" height="230" align="right" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHd1Z2RrZHczcWU1cXUxN2o4aXRubnFzd2RqZW0yMHRoY2hpZDY4OCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/djxZRGfRaHhbehxZb4/giphy.gif"/>
-- 🏢 Former **Software Engineer** at [iLabs](https://www.ilabs.lk/)
+- :computer: Soy desarrollador de software <img width="250" height="230" align="right" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHd1Z2RrZHczcWU1cXUxN2o4aXRubnFzd2RqZW0yMHRoY2hpZDY4OCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/djxZRGfRaHhbehxZb4/giphy.gif"/>
 - 🎓 Estudié en la Fundación Universitaria Tecnológico Comfenalco
 - 🏡 Vivo en Colombia
 - :kissing_smiling_eyes: Mis Hobbies: Futbol, videojuegos, leer y pasar tiempo con mi familia 
@@ -20,9 +19,7 @@
     
 <br>
 
-
-
-## What I am Good at 🧑‍💻 :
+## Tecnologias conocidas🧑‍💻 :
 
 <br>
 
@@ -34,6 +31,19 @@
     <img src="https://skillicons.dev/icons?i=javascript,typescript,postgresql,mysql,linux,bash"/>
   </a>
 </p>
+
+<br>
+
+## Contacto
+<p align="left">
+    <a href="https://www.linkedin.com/in/juan-david-galindo-barrios-4ab953149/"> <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin"/></a>
+    <a href = "mailto:juan_galindo00@outlook.com" target="blank"><img align="center" src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Microsoft_Outlook"/></a>
+</p>
+&nbsp;&nbsp;
+
+<div align="center">
+    :heart_eyes: Gracias por mirar mi perfil, que tengas un buen dia. 😉 &copy; 2025 Juan David Galindo
+</div>
 
 
   
